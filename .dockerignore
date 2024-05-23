@@ -1,0 +1,6 @@
+.*
+exploits
+manifests
+deploy*
+*.md
+*.yml
